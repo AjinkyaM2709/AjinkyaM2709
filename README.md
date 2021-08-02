@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @AjinkyaM2709
+- 👀 I’m interested in Django Web Developement ...
+- 🌱 I’m currently looking for opportunities as Python Django Deveoper...
+- 📫 You can reach me through gmail at ajinkyamukhedkar9@gmail.com...
+
+<!---
+AjinkyaM2709/AjinkyaM2709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
